@@ -1,4 +1,4 @@
-package com.example.truecitizenquiz;
+package com.tec.tuts.truecitizenquiz;
 
 import androidx.appcompat.app.AppCompatActivity;
 

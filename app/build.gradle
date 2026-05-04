@@ -5,7 +5,7 @@ android {
     buildToolsVersion "30.0.0"
 
     defaultConfig {
-        applicationId "com.example.truecitizenquiz"
+        applicationId "com.tec.tuts.truecitizenquiz"
         minSdkVersion 19
         targetSdkVersion 30
         versionCode 1

@@ -1,4 +1,4 @@
-package com.example.truecitizenquiz;
+package com.tec.tuts.truecitizenquiz;
 
 public class Question {
     private int answerResId;
